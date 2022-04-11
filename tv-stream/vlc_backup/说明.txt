@@ -1,0 +1,45 @@
+VLC Media Player 是一款免费、开源、跨平台的多媒体播放器及框架，可播放大多数多媒体文件、光盘、网络摄像头、设备和各类流媒体协议。
+
+简单、快速、强大
+- 能播放任何内容 - 文件、光盘、摄像头、设备及流媒体
+- 可播放大多数格式，无需安装编解码器包 - MPEG-2、MPEG-4、H.264、MKV、WebM、WMV、MP3 等
+- 可在所有平台运行 - Windows、Linux、Mac OS X、Unix、iOS、Android 等
+- 完全免费 - 无间谍软件，无广告，无跟踪用户的行为
+
+自定义
+- 添加外观。
+- 设计外观可采用 VLC 外观编辑器。
+- 安装扩展。
+
+快速 - 硬件解码
+VLC 在大多数平台上都具有硬件解码功能。它支持在 GPU 上的 0 复制，并可在需要时回退软件。
+
+高级控制
+VLC 具有视频、字幕同步、视频和音频滤波器等完整的功能集。
+
+播放所有格式：
+视频：
+MPEG-1/2、DivX (1/2/3/4/5/6)、MPEG-4 ASP、XviD、3ivX D4、H.261、H.263/H.263i、H.264/MPEG-4 AVC、Cinepak、Theora、Dirac/VC-2、MJPEG (A/B)、WMV 1/2、WMV 3/WMV-9/VC-1、Sorenson 1/3、DV、On2 VP3/VP5/VP6、Indeo 视频 v3 (IV32)、Real 视频 (1/2/3/4)。
+音频：
+MPEG Layer 1/2、MP3 - MPEG Layer 3、AAC - MPEG-4 part3、Vorbis、AC3 - A/52、E-AC-3、MLP/TrueHD>3、DTS、WMA 1/2、WMA 3、FLAC、ALAC、Speex、Musepack/MPC、ATRAC 3、Wavpack、Mod、TrueAudio、APE、Real Audio、Alaw/Ulaw、AMR (3GPP)、MIDI、LPCM、ADPCM、QCELP、DV 音频、QDM2/QDMC、MACE。
+字幕：
+DVD、文本文件（MicroDVD、SubRIP、SubViewer、SSA1-5、SAMI、VPlayer）、隐藏字幕、Vobsub、通用字幕格式（USF）、SVCD/CVD、DVB、OGM、CMML、Kate。
+ID3 标签、APEv2、Vorbis 注释。
+
+高级格式：
+输入媒体：
+UDP/RTP 单播、UDP/RTP 多播、HTTP/FTP、MMS、TCP/RTP 单播、DCCP/RTP 单播、文件、DVD 视频、视频 CD/VCD、SVCD、音频 CD（无 DTS-CD）、DVB（卫星电视、数字电视、有线电视）、MPEG 编码器、视频采集。
+输入格式：
+MPEG（ES,PS,TS,PVA,MP3）、AVI、ASF/WMV/WMA、MP4/MOV/3GP、OGG/OGM/Annodex、Matroska（MKV）、Real、WAV（包括 DTS）、原始音频（DTS、AAC、AC3/A52）、Raw DV、FLAC、FLV（Flash）、MXF、Nut、标准 MIDI/SMF、Creative 语音。
+杂项：
+SAP/SDP 通知、Bonjour 协议、Mozilla/Firefox 插件、ActiveX 插件、SVCD 菜单、本地化、CD 文本、CDDB CD 信息、IGMPv3、IPv6、MLDv2、CPU 加速。
+
+v3.0.11 版本更新：2020年6月16日
+更新日志见压缩包内的“NEWS.txt”文件。
+
+此中文绿色版由 th_sjy 精简制作分享，压缩包解压后双击运行“vlc.exe”即可。
+
+
+
+
+th_sjy 汉化博客专注软件汉化和资源分享，发布网址：http://www.th-sjy.com
